@@ -36,8 +36,6 @@
 ### ⚙ Tools & Platforms  
 - Git & GitHub  
 - VS Code  
-- Linux Basics  
-- Postman  
 
 ---
 
