@@ -61,9 +61,9 @@ A privacy-friendly and decentralized social media application concept.
 
 ## 📫 Contact  
 
-- 📧 Email: **your-email@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**
-- 🐙 GitHub: **https://github.com/your-username**
+- 📧 Email: **jagtapmadhav45@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/madhav-jagtap-22758**
+- 🐙 GitHub: **(https://github.com/Madhav-26)**
 
 ---
 
